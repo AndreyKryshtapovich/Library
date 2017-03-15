@@ -1,0 +1,6 @@
+package com.epam.library.command;
+
+public enum CommandName {
+	ADD_BOOK,GET_BOOK_BY_TITLE,RENAME,DELETE_BOOK_BY_TITLE, GET_EMPL_WITH_G_THAT_ONE_BOOK, GET_EMPL_WITH_LQ_THAT_TWO_BOOKS,
+	INIT_DATA
+}
